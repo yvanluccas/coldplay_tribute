@@ -1,0 +1,90 @@
+/* page */
+html {
+    font-family: SF Pro Text;
+    background-color: #450545
+}
+
+.container {
+    max-width: 1100px;
+    background-color: #fff;
+    position: relative;
+    margin: 50px auto;
+    padding: 20px 50px;
+
+}
+
+.bold {
+    font-weight: bold;
+}
+
+/* header */
+.header{
+    text-align: center;
+}
+
+.main-title {
+    font-size: 45px;
+    margin-bottom: 3px;
+}
+
+.main-paragraph {
+    font-style: italic;
+}
+
+/* main image */
+.image-1 {
+    text-align: center;
+    margin-top: 30px;
+}
+
+/* image size */
+#image-1, #image-2 {
+    width: 800px;
+}
+
+/* biography */
+.biography-container {
+    padding: 25px 0;
+    margin: 25px 0;
+    border-top: 2px dashed #450545;
+    border-bottom: 2px dashed #450545;
+}
+
+/* quote */
+.quote-container {
+    background-color: #450545;
+    padding: 30px;
+}
+
+.quote-container blockquote {
+    font-weight: bold;
+    font-size: 25px;
+    color: #fff;
+}
+
+.quote-container p {
+    font-style: italic;
+    color: #fff;
+}
+
+/* curiosities */
+.curiosity-container {
+    padding: 25px 0;
+    margin: 25px 0;
+    border-top: 2px dashed #450545;
+    border-bottom: 2px dashed #450545;
+}
+
+.curiosity-container li {
+    height: 30px;
+}
+
+/* image 2 */
+.img-bold {
+    font-weight: bold;
+    text-align: center;
+}
+
+#link {
+    text-decoration: none;
+}
